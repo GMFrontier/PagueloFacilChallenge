@@ -1,0 +1,84 @@
+{
+  "project_info": {
+    "project_number": "44240904418",
+    "project_id": "materialcalculatorfirst",
+    "storage_bucket": "materialcalculatorfirst.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44240904418:android:ed0e1dfbdccad45f51bebb",
+        "android_client_info": {
+          "package_name": "com.gmfrontier.materialcalculatorfirst"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44240904418-2mb8b9npt945ve06s0mqt6lg43pthhnk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gmfrontier.materialcalculatorfirst",
+            "certificate_hash": "1bb579f86538710c2008bf124f07a090245f0b1e"
+          }
+        },
+        {
+          "client_id": "44240904418-ai0b70d1b84fpoq1t1jp4isbhop7n2pv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIJK6VyBHT4feqtEngjg9RWiyIp5W3O2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44240904418-ai0b70d1b84fpoq1t1jp4isbhop7n2pv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44240904418:android:bd84a94a7de44ccd51bebb",
+        "android_client_info": {
+          "package_name": "com.gmfrontier.paguelofacilchallenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44240904418-8kctkc861iv9q50gidost42n18v2cbfd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gmfrontier.paguelofacilchallenge",
+            "certificate_hash": "1bb579f86538710c2008bf124f07a090245f0b1e"
+          }
+        },
+        {
+          "client_id": "44240904418-ai0b70d1b84fpoq1t1jp4isbhop7n2pv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIJK6VyBHT4feqtEngjg9RWiyIp5W3O2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44240904418-ai0b70d1b84fpoq1t1jp4isbhop7n2pv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

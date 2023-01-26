@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">PagueloFacilChallenge</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Volver</string>
+    <!--PagueloFacil-->
+    <string name="merchant_name">Merchant name: %1$s</string>
+    <string name="operation_code">Cód. op: %1$s</string>
+    <string name="approved">Estado: %1$s</string>
+    <string name="card_holder_name">De: %1$s</string>
+    <string name="amount">Monto: $%1$s</string>
+    <string name="tax_amount">Impuestos: $%1$s</string>
+    <string name="card_type">Medio: %1$s</string>
+    <string name="description">Descripción del movimiento:</string>
+    <string name="cash">Efectivo</string>
+    <string name="mastercard">Mastercard</string>
+    <string name="status_approved">Aprobado</string>
+    <string name="status_pending">Pendiente</string>
+    <string name="status_cancelled">Cancelado</string>
+    <string name="no_more_results">No existen más resultados</string>
+    <string name="no_results">No hubieron resultados</string>
+    <string name="error_unexpected_error">Hubo un error inesperado, por favor vuelva a intentar…</string>
+
+    <!--ROUTES-->
+    <string name="route_home">android-app://com.gmfrontier.paguelofacilchallenge/home</string>
+    <string name="route_fragments">android-app://com.gmfrontier.paguelofacilchallenge/fragments/</string>
+    <string name="navigation_route_fragments">android-app://com.gmfrontier.paguelofacilchallenge/fragments/{title}</string>
+    <string name="card_type_filter">Filtrar por medio de pago:</string>
+    <string name="visa">VISA</string>
+    <string name="clave">Clave</string>
+    <string name="error_fetching_token">Hubo un error al ir a buscar el access token, por favor, reinicie la app.</string>
+</resources>

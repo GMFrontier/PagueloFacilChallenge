@@ -1,0 +1,22 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "PagueloFacilChallenge"
+include ':app'
+include ':core'
+include ':core-ui'
+include ':transaction'
+include ':transaction:transaction_presentation'
+include ':transaction:transaction_domain'
+include ':transaction:transaction_data'

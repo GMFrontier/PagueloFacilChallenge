@@ -1,0 +1,15 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<resources>
+  <color name="primaryColor">#7ec341</color>
+  <color name="primaryLightColor">#b1f672</color>
+  <color name="primaryDarkColor">#4c9204</color>
+  <color name="secondaryColor">#f2f3f5</color>
+  <color name="secondaryLightColor">#ffffff</color>
+  <color name="secondaryDarkColor">#bfc0c2</color>
+  <color name="primaryTextColor">#000000</color>
+  <color name="secondaryTextColor">#000000</color>
+  <color name="pendingSatusColor">#AA8D25</color>
+  <color name="canceledSatusColor">#8A1923</color>
+  <color name="black">#FF000000</color>
+  <color name="white">#FFFFFFFF</color>
+</resources>
